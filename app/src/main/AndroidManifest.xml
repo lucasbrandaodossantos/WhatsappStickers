@@ -1,49 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.codefile.figurinhas">
+    package="com.codigo.figurinhas">
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
+        android:debuggable="false"
         android:allowBackup="false"
         android:fullBackupContent="false"
         android:icon="@mipmap/ic_launcher_app"
         android:label="@string/app_name"
-        android:name="com.codefile.figurinhas.StickerApplication"
+        android:name="com.codigo.figurinhas.StickerApplication"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.codefile.figurinhas.EntryActivity">
+        <activity android:name="com.codigo.figurinhas.EntryActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name="com.codefile.figurinhas.StickerPackListActivity"
+            android:name="com.codigo.figurinhas.StickerPackListActivity"
             android:label="@string/title_activity_sticker_packs_list" />
         <activity
-            android:name="com.codefile.figurinhas.StickerPackDetailsActivity"
-            android:parentActivityName="com.codefile.figurinhas.StickerPackListActivity"
+            android:name="com.codigo.figurinhas.StickerPackDetailsActivity"
+            android:parentActivityName="com.codigo.figurinhas.StickerPackListActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.codefile.figurinhas.StickerPackListActivity" />
+                android:value="com.codigo.figurinhas.StickerPackListActivity" />
         </activity>
         <activity
-            android:name="com.codefile.figurinhas.StickerPackInfoActivity"
+            android:name="com.codigo.figurinhas.StickerPackInfoActivity"
             android:label="@string/title_activity_sticker_pack_info"
-            android:parentActivityName="com.codefile.figurinhas.StickerPackDetailsActivity"
+            android:parentActivityName="com.codigo.figurinhas.StickerPackDetailsActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.codefile.figurinhas.StickerPackDetailsActivity" />
+                android:value="com.codigo.figurinhas.StickerPackDetailsActivity" />
         </activity>
 
         <provider
-            android:name="com.codefile.figurinhas.StickerContentProvider"
+            android:name="com.codigo.figurinhas.StickerContentProvider"
             android:authorities="${contentProviderAuthority}"
             android:enabled="true"
             android:exported="true"

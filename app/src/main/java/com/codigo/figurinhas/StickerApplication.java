@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.codefile.figurinhas;
+package com.codigo.figurinhas;
 
 import android.app.Application;
 
