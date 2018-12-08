@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Figurinhas de Memes</string>
+    <string name="tray_image_content_description">Imagem do pacote de figurinhas</string>
+    <string name="more_info_button">Mais informações sobre o pacote de figurinhas</string>
+    <string name="add_to_whatsapp">Adicionar no WhatsApp</string>
+    <string name="add_button_content_description">Adicione pacote de figurinhas ao WhatsApp</string>
+    <string name="title_activity_sticker_packs_list">Pacote de Figurinhas</string>
+    <string name="dot">•</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Pacote de figurinhas</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Detalhes da figurinha</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <string name="view_webpage">Visualizar website</string>
+    <string name="send_email">Enviar e-mail</string>
+    <string name="privacy_policy">Política de privacidade</string>
+    <string name="error_adding_sticker_pack">Não foi possível adicionar este pacote de figurinhas. Obtenha a versão mais recente do WhatsApp.</string>
+    <string name="error_message">Erro: %s \nVeja o logcat para encontrar o erro.</string>
+    <string name="title_validation_error">Erro com o pacote</string>
+    <string name="info_screen_tray_icon">Icone do pacote</string>
+    <string name="details_pack_already_added">Pacote de figurinhas adicionado ao WhatsApp</string>
+    <string name="info_send_email_to_prompt">Enviar e-mail com</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Pacote de figurinhas não adicionado. Se deseja adicioná-lo, obtenha a versão mais recente do WhatsApp.</string>
+    <string name="add_pack_fail_prompt_update_play_link">Atualizar</string>
+    <string name="cannot_find_play_store">Google Play não está instalada neste dispositivo.</string>
+</resources>

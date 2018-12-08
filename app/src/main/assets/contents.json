@@ -1,0 +1,278 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Memes 1",
+      "publisher": "Lucas Brandão",
+      "tray_image_file": "memes.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "AVADA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "BDIACAFE.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "BDIACERVEJA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "IDAI.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "LUIGICU.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MARIOCU.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "SAPOAPAIXONADO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "SAPOHEART.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "TEAMO.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Memes 2",
+      "publisher": "Lucas Brandão",
+      "tray_image_file": "lulamolusco.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "BECK.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "BECKVIRTUAL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CAIXADOSBEBUM.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CATIORINEO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CHAMANDOOSCORNO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CORINTHIANOASSUSTADO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CRASHAIEFODA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "DIALOGO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "FABIOASSUNCAO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "FABIOBEBUM.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Memes 3",
+      "publisher": "Lucas Brandão",
+      "tray_image_file": "sapotriste.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "BRAILE.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "DEZREAIS.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "FABIOCHEIRADOS.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "ISSONPODESEREAL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MARCELOSAIGAY.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MARIJUANA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MARIOPUTASSO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MIA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "NEGAOWHATSAPP.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PERICLESBRACO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PERICLESBRACOO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PERICLESPERNA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PERICLESPERNAA.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Memes 4",
+      "publisher": "Lucas Brandão",
+      "tray_image_file": "marieta.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "QUEROMEUDINHEIRO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "REMOVEUVOCE.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "SHREKLOCAO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "TEMPERANDOOBECK.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "TODEBOA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "TOQUENOCORCUNDA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "TOQUENOFOFAO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "UAU.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "VENDOGRUPO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "VOCESAIU.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "ZECABEBUM.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Politicos",
+      "publisher": "Lucas Brandão",
+      "tray_image_file": "bolsomito.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "BOLSOAPONTANDO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "BOLSOCHUTALULA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "BOLSOLULA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "BOLSONARO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "BOLSONARODESENHO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "BOLSONAROTEITEI.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "DILMAVIDALOCA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "DORIA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "LULABOLSONARO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MASOQEHISSO.webp",
+          "emojis": []
+        }
+      ]
+    }
+  ]
+}
