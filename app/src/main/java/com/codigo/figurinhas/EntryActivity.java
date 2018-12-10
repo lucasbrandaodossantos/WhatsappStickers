@@ -17,6 +17,7 @@ import android.util.Log;
 import android.util.Pair;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
@@ -29,7 +30,6 @@ import java.util.ArrayList;
 public class EntryActivity extends BaseActivity {
     private View progressBar;
     private LoadListAsyncTask loadListAsyncTask;
-    private AdView mAdView;
     private InterstitialAd mInterstitialAd;
 
     @Override
@@ -45,16 +45,22 @@ public class EntryActivity extends BaseActivity {
         loadListAsyncTask.execute();
 
         //INICIANDO ANÚNCIO
-        MobileAds.initialize(this, "ca-app-pub-6818083583070469~2176507982"); // BANNER ID
+        MobileAds.initialize(this, "ca-app-pub-6818083583070469~2176507982"); // BLOCO DE ANÚNCIOS DO APP
+//        MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713"); // BLOCO DE ANÚNCIOS DE TESTE
+
+
 
         //ANÚNCIO BANNER
         AdView adView = findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         adView.loadAd(adRequest);
 
+        //CÓDIGO DO BANNER DE ANÚNCIOS: ca-app-pub-6818083583070469/5732609615
+
+
         //ANÚNCIO INTERSTICIAL
         mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-6818083583070469/6104871059");
+        mInterstitialAd.setAdUnitId("ca-app-pub-6818083583070469/6104871059"); //CÓDIGO DO BLOCO INTERSTICIAL
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
     }
 

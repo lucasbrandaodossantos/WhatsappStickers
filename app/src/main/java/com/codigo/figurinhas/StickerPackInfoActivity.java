@@ -21,6 +21,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 
@@ -69,6 +72,9 @@ public class StickerPackInfoActivity extends BaseActivity {
         } else {
             viewPrivacyPolicy.setOnClickListener(v -> launchWebpage(privacyPolicy));
         }
+        AdView adView = findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        adView.loadAd(adRequest);
     }
 
     private void launchEmailClient(String email) {

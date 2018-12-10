@@ -18,5 +18,6 @@ public class StickerApplication extends Application {
     public void onCreate() {
         super.onCreate();
         Fresco.initialize(this);
+
     }
 }

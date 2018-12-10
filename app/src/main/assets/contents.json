@@ -29,14 +29,6 @@
           "emojis": []
         },
         {
-          "image_file": "LUIGICU.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "MARIOCU.webp",
-          "emojis": []
-        },
-        {
           "image_file": "SAPOAPAIXONADO.webp",
           "emojis": []
         },
@@ -60,14 +52,6 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        {
-          "image_file": "BECK.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "BECKVIRTUAL.webp",
-          "emojis": []
-        },
         {
           "image_file": "CAIXADOSBEBUM.webp",
           "emojis": []
@@ -133,10 +117,6 @@
           "emojis": []
         },
         {
-          "image_file": "MARIJUANA.webp",
-          "emojis": []
-        },
-        {
           "image_file": "MARIOPUTASSO.webp",
           "emojis": []
         },
@@ -186,10 +166,6 @@
         },
         {
           "image_file": "SHREKLOCAO.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "TEMPERANDOOBECK.webp",
           "emojis": []
         },
         {
@@ -270,6 +246,58 @@
         },
         {
           "image_file": "MASOQEHISSO.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Memes 5",
+      "publisher": "Lucas Brandão",
+      "tray_image_file": "marcelosemdente.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "AWAYLARANJO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CAPOTEIOCORSA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CORNOVINDO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "ETHEART.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "FICANASUA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "OCUPADA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PISTOLITO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "QDESUMANO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "TINOVO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "VAMOBEJA.webp",
           "emojis": []
         }
       ]
